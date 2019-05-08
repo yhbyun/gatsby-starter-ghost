@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://ghost.rivario.com",
+    "contentApiKey": "f36205062722988ec0f2b3e8df"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://ghost.rivario.com",
+    "contentApiKey": "f36205062722988ec0f2b3e8df"
   }
 }
